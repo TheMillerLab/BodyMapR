@@ -1,0 +1,657 @@
+Anatomic Structure,x,y
+Anterior Medial Left Abdomen Skin,37,60
+Anterior Midline Left Abdomen Skin,38,60
+Anterior Lateral Left Abdomen Skin,39,60
+Left Abdominal Lymphoid Tissue,90,55
+Left Adenoids Lymphoid Tissue,88.2,88
+Left Adrenal,89,66
+Anterior Medial Left Ankle Skin,37.8,10
+Anterior Midline Left Ankle Skin,38.5,10
+Anterior Lateral Left Ankle Skin,39.3,10
+Posterior Lateral Left Ankle Skin,59.5,10
+Posterior Midline Left Ankle Skin,60.6,10
+Posterior Medial Left Ankle Skin,61.5,10
+Left Axillary Lymphoid Tissue,92.5,78
+Posterior Lateral Left Back Skin,60,75
+Midline Left Back Skin,61.5,75
+Posterior Medial Left Back Skin,62.5,75
+Medial Left Back Skin,64.75,75
+Left Bladder,89,53
+Left Brachial Lymphoid Tissue,93,70
+Posterior Lateral Left Buttocks Skin,59.5,53
+Midline Left Buttocks Skin,61.5,53
+Posterior Medial Left Buttocks Skin,62.5,53
+Left Buttocks Skin,63,53
+Medial Left Buttocks Skin,64.75,53
+Left Calcaneus Bone,13.25,11.5
+Left Capitate Bone,19.75,52.2
+Left Celiac Lymphoid Tissue,87,62
+Anterior Medial Left Cheek Skin,36,90.5
+Anterior Midline Left Cheek Skin,36.5,90.5
+Anterior Lateral Left Cheek Skin,37.2,90.5
+Anterior Medial Left Chest Skin,37,75
+Anterior Midline Left Chest Skin,38,75
+Anterior Lateral Left Chest Skin,39,75
+Anterior Medial Left Chin Skin,35.7,87
+Anterior Midline Left Chin Skin,35.8,87
+Anterior Lateral Left Chin Skin,36.5,87.3
+Left Clavicle Or Collarbone Bone,14,81.7
+Left Cuboid Bone,14.2,10.5
+Anterior Medial Left Ear Skin,37.7,91
+Anterior Lateral Left Ear Skin,37.9,91
+Posterior Medial Left Ear Skin,60.8,91
+Posterior Lateral Left Ear Skin,60.9,90.4
+Posterior Midline Left Ear Skin,61.6,90.5
+Anterior Medial Left Elbow Skin,41.75,65
+Anterior Midline Left Elbow Skin,42.5,66.5
+Anterior Lateral Left Elbow Skin,43,68
+Posterior Lateral Left Elbow Skin,55.1,64
+Posterior Midline Left Elbow Skin,56,64
+Posterior Medial Left Elbow Skin,57,64
+Left Epitrochlear Lymphoid Tissue,94.5,66
+Left Ethmoid Bone,11.4,95
+Anterior Medial Left Eyebrow Skin,36,93.2
+Anterior Midline Left Eyebrow Skin,36.5,93.2
+Anterior Lateral Left Eyebrow Skin,36.9,93.2
+Anterior Medial Left Eyelid Skin,36,92.5
+Anterior Midline Left Eyelid Skin,36.5,92.5
+Anterior Lateral Left Eyelid Skin,36.8,92.5
+Left Femoral Lymphoid Tissue,89.2,46
+Left Femur Bone,14.5,44
+Left Fibula Bone,14.2,22
+Anterior Medial Left Foot And Toes Skin,38.5,5
+Anterior Midline Left Foot And Toes Skin,39.2,5
+Anterior Lateral Left Foot And Toes Skin,40,5
+Posterior Lateral Left Foot And Toes Skin,58.8,9
+Posterior Midline Left Foot And Toes Skin,59.3,10.3
+Left Foot Distal Phalange 1 Bone,12.7,4.3
+Left Foot Distal Phalange 2 Bone,13.25,4
+Left Foot Distal Phalange 3 Bone,13.76,4.2
+Left Foot Distal Phalange 4 Bone,14.35,4.5
+Left Foot Distal Phalange 5 Bone,14.6,5.15
+Left Foot Middle Phalange 2 Bone,13.25,4.7
+Left Foot Middle Phalange 3 Bone,13.75,4.8
+Left Foot Middle Phalange 4 Bone,14.25,5
+Left Foot Middle Phalange 5 Bone,14.62,5.4
+Left Foot Proximal Phalange 1 Bone,12.65,5.5
+Left Foot Proximal Phalange 2 Bone,13.25,5.5
+Left Foot Proximal Phalange 3 Bone,13.75,5.7
+Left Foot Proximal Phalange 4 Bone,14.25,5.9
+Left Foot Proximal Phalange 5 Bone,14.65,6.1
+Anterior Medial Left Forearm Skin,43,60
+Anterior Midline Left Forearm Skin,43.9,60
+Anterior Lateral Left Forearm Skin,44.8,60
+Posterior Lateral Left Forearm Skin,54.3,60
+Posterior Midline Left Forearm Skin,55.1,60
+Posterior Medial Left Forearm Skin,56,60
+Anterior Medial Left Forehead Skin,36,95
+Anterior Midline Left Forehead Skin,36.5,93
+Lateral Left Forehead Skin,37,93
+Anterior Lateral Left Forehead Skin,37,95
+Left Frontal Bone,12,96
+Left Gallbladder,86.5,62.5
+Anterior Medial Left Genitalia Skin,35.7,49
+Anterior Midline Left Genitalia Skin,35.8,49
+Midline Left Genitalia Skin,35.9,49
+Posterior Lateral Left Genitalia Skin,63.3,49
+Posterior Midline Left Genitalia Skin,63.4,49
+Posterior Medial Left Genitalia Skin,63.5,49
+Left Hamate Bone,19,52.2
+Anterior Medial Left Hand And Fingers Skin,46.1,50
+Anterior Midline Left Hand And Fingers Skin,47.2,50
+Anterior Lateral Left Hand And Fingers Skin,48,50
+Posterior Lateral Left Hand And Fingers Skin,51,50
+Posterior Midline Left Hand And Fingers Skin,52,50
+Posterior Medial Left Hand And Fingers Skin,53,50
+Left Hand Distal Phalange 1 Bone,21.25,47.8
+Left Hand Distal Phalange 2 Bone,20.6,44
+Left Hand Distal Phalange 3 Bone,19.75,43.5
+Left Hand Distal Phalange 4 Bone,19.05,44
+Left Hand Distal Phalange 5 Bone,18.2,45.2
+Left Hand Middle Phalange 2 Bone,20.5,45
+Left Hand Middle Phalange 3 Bone,19.75,44.9
+Left Hand Middle Phalange 4 Bone,19,45.2
+Left Hand Middle Phalange 5 Bone,18.25,46
+Left Hand Proximal Phalange 1 Bone,21.1,49.1
+Left Hand Proximal Phalange 2 Bone,20.35,46.8
+Left Hand Proximal Phalange 3 Bone,19.6,47
+Left Hand Proximal Phalange 4 Bone,19,47.1
+Left Hand Proximal Phalange 5 Bone,18.35,47.5
+Left Heart,89,74
+Left Hilar Lymphoid Tissue,89,77
+Left Humerus Bone,16.7,75
+Left Iliac Lymphoid Tissue,88.5,53
+Left Ilium Bone,14,61
+Left Incus Bone,12.9,93.8
+Left Inferior Nasal Conchae Bone,11.3,91.8
+Left Infraclavicular Lymphoid Tissue,89,83.8
+Left Inguinal Lymphoid Tissue,89,47
+Left Intermediate Cuneiform Bone,13.25,10.6
+Left Ishium Bone,12.5,53.5
+Left Kidney,90,62
+Anterior Medial Left Knee Skin,37.3,28
+Anterior Midline Left Knee Skin,38.5,28
+Anterior Lateral Left Knee Skin,39.5,28
+Posterior Lateral Left Knee Skin,59.5,30
+Posterior Midline Left Knee Skin,60.6,30
+Posterior Medial Left Knee Skin,61.6,30
+Left Lacrimal Bone,11.4,94
+Left Large Intestine,91,57
+Left Lateral Cuneiform Bone,13.75,10.2
+Left Level Ii Cervical Lymphoid Tissue,89,87.5
+Left Level Iii Cervical Lymphoid Tissue,89,85.7
+Left Level Iv Cervical Lymphoid Tissue,89,85
+Left Level V Cervical Lymphoid Tissue,89,87.4
+Left Level Vi Cervical Lymphoid Tissue,89,85
+Left Level Vii Cervical Lymphoid Tissue,89,84.8
+Left Lingual Tonsils Lymphoid Tissue,88.2,88
+Anterior Medial Left Lip Skin,35.7,88
+Anterior Lateral Left Lip Skin,35.9,88.5
+Anterior Midline Left Lip Skin,36,88.5
+Left Liver,89,64
+Anterior Medial Left Lower Leg (Shin And Calf) Skin,37.8,19
+Anterior Midline Left Lower Leg (Shin And Calf) Skin,38.5,19
+Anterior Lateral Left Lower Leg (Shin And Calf) Skin,39.4,19
+Posterior Lateral Left Lower Leg (Shin And Calf) Skin,59.5,21
+Posterior Midline Left Lower Leg (Shin And Calf) Skin,60.5,21
+Posterior Medial Left Lower Leg (Shin And Calf) Skin,61.5,21
+Left Lunate Bone,19,52.6
+Left Lungs,90.7,74
+Left Malleus Bone,12.9,93.8
+Left Mandible Bone,12,88.5
+Left Maxilla Bone,12,91
+Left Medial Cuneiform Bone,12.9,10
+Left Mesenteric Lymphoid Tissue,90,59
+Left Metacarpal 1 Bone,20.5,51.5
+Left Metacarpal 2 Bone,20,50
+Left Metacarpal 3 Bone,19.5,50
+Left Metacarpal 4 Bone,19,50
+Left Metacarpal 5 Bone,18.5,50.2
+Left Metatarsal  1 Bone,12.75,8
+Left Metatarsal  2 Bone,13.25,8
+Left Metatarsal  3 Bone,13.65,8
+Left Metatarsal  4 Bone,14.15,8
+Left Metatarsal  5 Bone,14.5,8
+Left Nasal Bone,11.3,94
+Left Nasopharynx Lymphoid Tissue,88.2,88
+Left Navicular Bone,13.1,11.2
+Anterior Medial Left Neck Skin,35.8,85
+Anterior Midline Left Neck Skin,36.5,85
+Anterior Lateral Left Neck Skin,36.8,85
+Posterior Lateral Left Neck Skin,62.1,85.8
+Posterior Midline Left Neck Skin,62.8,85
+Posterior Medial Left Neck Skin,63,85
+Anterior Medial Left Nose Skin,35.6,90.5
+Anterior Midline Left Nose Skin,35.8,90.5
+Anterior Lateral Left Nose Skin,36,90.5
+Left Occipital Lymphoid Tissue,88.7,89
+Left Occipital Bone,12,92
+Left Ossa Coxae Bone,11.5,55
+Left Ovary,89.5,57
+Left Palatine Bone,11.4,91
+Left Pancreas,90,63
+Left Paraaortic Lymphoid Tissue,88.5,59
+Left Parietal Bone,13.1,96
+Left Parotid Lymphoid Tissue,88.85,88
+Left Patella Bone,13.5,32.5
+Left Pectoral Lymphoid Tissue,90,78.5
+Left Peritracheal Lymphoid Tissue,88.2,82
+Left Pisiform Bone,18.75,52.2
+Left Popliteal Lymphoid Tissue,90.5,24
+Left Porta Hepatis Lymphoid Tissue,86,64
+Left Preauricular Lymphoid Tissue,89,89
+Left Pubis Bone,11.5,55
+Left Radius Bone,19,59
+Left Retroperitoneal Lymphoid Tissue,90,61
+Left Rib 1 Bone,12,80.2
+Left Rib 10 Bone,14,65.8
+Left Rib 11 Bone,13,70
+Left Rib 12 Bone,12,68.4
+Left Rib 2 Bone,13,79.3
+Left Rib 3 Bone,13,77.5
+Left Rib 4 Bone,13,75.3
+Left Rib 5 Bone,13,73.1
+Left Rib 6 Bone,13,71.2
+Left Rib 7 Bone,13,69.6
+Left Rib 8 Bone,13.9,67.8
+Left Rib 9 Bone,14,66.5
+Left Sacrum Bone,11,58
+Anterior Medial Left Scalp Skin,36,97
+Anterior Midline Left Scalp Skin,36.5,96
+Anterior Lateral Left Scalp Skin,37.5,95
+Posterior Lateral Left Scalp Skin,61.5,94
+Posterior Medial Left Scalp Skin,63,94
+Posterior Midline Left Scalp Skin,63.6,94
+Left Scaphoid Bone,19.6,52.8
+Left Scapula Or Shoulder Blade Bone,15,80
+Anterior Medial Left Shoulder Skin,40.2,79
+Anterior Midline Left Shoulder Skin,40.8,79
+Anterior Lateral Left Shoulder Skin,41.4,79
+Posterior Lateral Left Shoulder Skin,57.4,79
+Posterior Midline Left Shoulder Skin,58.2,79
+Posterior Medial Left Shoulder Skin,59,79
+Left Small Intestine,90,59
+Left Sphenoid Bone,11.6,95
+Left Spleen Lymphoid Tissue,91,64
+Left Spleen,91,64
+Left Splenic Hilar Lymphoid Tissue,90.5,64
+Left Stapes Bone,12.9,93.8
+Left Sternum Bone,11,79
+Left Stomach,90.5,65
+Left Submandibular Lymphoid Tissue,88.2,86.6
+Left Submental Lymphoid Tissue,88.1,85.8
+Left Supraclavicular Lymphoid Tissue,89.2,84
+Left Talus Bone,13.25,12
+Left Temporal Bone,13,95.5
+Left Testis,89,46
+Left Thymic Lymphoid Tissue,89,76
+Left Tibia Bone,13.25,22
+Left Tonsils Lymphoid Tissue,88.2,88
+Left Trapezium Bone,19.75,52.2
+Left Trapezoid Bone,19.75,52.2
+Left Triquetral Bone,18.75,52.2
+Left Ulna Bone,18.15,59
+Anterior Medial Left Upper Arm Skin,40.75,71.5
+Anterior Midline Left Upper Arm Skin,41.5,71.5
+Anterior Lateral Left Upper Arm Skin,42.2,71.5
+Posterior Lateral Left Upper Arm Skin,56.8,71.5
+Posterior Midline Left Upper Arm Skin,57.8,71.5
+Posterior Medial Left Upper Arm Skin,58.8,71.5
+Anterior Medial Left Upper Leg (Anterior And Posterior Thigh) Skin,36.5,44
+Anterior Midline Left Upper Leg (Anterior And Posterior Thigh) Skin,38.3,44
+Anterior Lateral Left Upper Leg (Anterior And Posterior Thigh) Skin,40,44
+Posterior Lateral Left Upper Leg (Anterior And Posterior Thigh) Skin,59,43
+Posterior Midline Left Upper Leg (Anterior And Posterior Thigh) Skin,60.6,43
+Posterior Medial Left Upper Leg (Anterior And Posterior Thigh) Skin,62.5,43
+Left Vomer Bone,11.4,91
+Left Waldeyer Ring Lymphoid Tissue,88.2,88
+Anterior Medial Left Wrist Skin,45,54
+Anterior Left Wrist Skin,45.5,54.8
+Anterior Midline Left Wrist Skin,45.5,55
+Anterior Lateral Left Wrist Skin,46,56
+Posterior Lateral Left Wrist Skin,52.5,54
+Posterior Midline Left Wrist Skin,53,53.5
+Posterior Medial Left Wrist Skin,53.8,53
+Left Zygomatic Bone,12,92
+Anterior Midline Abdomen Skin,35.4,60
+Midline Abdominal Lymphoid Tissue,87.8,55
+Posterior Midline Back Skin,63.6,75
+Midline Bladder,87.8,53
+Posterior Midline Buttocks Skin,63.6,53
+Midline Celiac Lymphoid Tissue,87.8,62
+Anterior Midline Chest Skin,35.4,75
+Anterior Midline Chin Skin,35.4,87
+Midline Coccyx Bone,11,55
+Midline Ethmoid Bone,11,95
+Anterior Midline Forehead Skin,35.4,95
+Midline Frontal Bone,11,96
+Midline Gallbladder,86,61
+Anterior Midline Genitalia Skin,35.4,49
+Posterior Midline Genitalia Skin,63.6,49
+Midline Heart,87.8,74
+Midline Hilar Lymphoid Tissue,87.8,77
+Midline Hyoid Bone,11,87
+Midline Large Intestine,87.8,64
+Anterior Midline Lip Skin,35.4,88.5
+Midline Liver,87,64
+Midline Mandible Bone,11,87.5
+Midline Maxilla Bone,11,90.5
+Midline Mesenteric Lymphoid Tissue,87.8,59
+Anterior Midline Neck Skin,35.4,84
+Posterior Midline Neck Skin,63.6,85
+Anterior Midline Nose Skin,35.4,90.5
+Midline Occipital Bone,11,92
+Midline Ossa Coxae Bone,11,55
+Midline Pancreas,87.8,63
+Midline Paraaortic Lymphoid Tissue,87.8,59
+Midline Porta Hepatis Lymphoid Tissue,87.8,64
+Midline Retroperitoneal Lymphoid Tissue,87.8,61
+Midline Sacrum Bone,11,58
+Anterior Midline Scalp Skin,35.4,97
+Posterior Midline Scalp Skin,63.6,94
+Midline Small Intestine,87.8,59
+Midline Sternum Bone,11,79
+Midline Stomach,89.5,65
+Anterior Lateral Right Abdomen Skin,32,60
+Anterior Midline Right Abdomen Skin,33,60
+Right Abdomen Skin,33.5,60
+Anterior Medial Right Abdomen Skin,34,60
+Right Abdominal Lymphoid Tissue,86.5,55
+Right Adenoids Lymphoid Tissue,87.3,88
+Right Adrenal,85.5,66
+Anterior Lateral Right Ankle Skin,31.6,10
+Anterior Midline Right Ankle Skin,32.3,10
+Anterior Medial Right Ankle Skin,33,10
+Posterior Medial Right Ankle Skin,66,10
+Posterior Midline Right Ankle Skin,66.6,10
+Posterior Lateral Right Ankle Skin,67.5,10
+Right Axillary Lymphoid Tissue,83.5,78
+Medial Right Back Skin,64.75,75
+Midline Right Back Skin,66,75
+Lateral Right Back Skin,67,75
+Right Bladder,87,53
+Right Brachial Lymphoid Tissue,82,68
+Medial Right Buttocks Skin,64.75,53
+Midline Right Buttocks Skin,66,53
+Posterior Lateral Right Buttocks Skin,67.5,53
+Right Calcaneus Bone,8.6,11.5
+Right Capitate Bone,2.5,52.2
+Right Celiac Lymphoid Tissue,87,62
+Anterior Lateral Right Cheek Skin,33.8,90.5
+Anterior Midline Right Cheek Skin,34,90.5
+Anterior Medial Right Cheek Skin,34.8,90.5
+Anterior Lateral Right Chest Skin,31.5,75
+Anterior Midline Right Chest Skin,33,75
+Anterior Medial Right Chest Skin,34,75
+Anterior Lateral Right Chin Skin,34.7,87.3
+Anterior Midline Right Chin Skin,35,87
+Anterior Medial Right Chin Skin,35.1,87
+Anterior Right Chin Skin,35.5,87
+Right Clavicle Or Collarbone Bone,8,81.7
+Right Cuboid Bone,7.8,10.5
+Anterior Lateral Right Ear Skin,32.8,91
+Anterior Midline Right Ear Skin,32.9,91
+Anterior Medial Right Ear Skin,33,91
+Posterior Medial Right Ear Skin,66,91
+Posterior Lateral Right Ear Skin,66.1,91
+Anterior Lateral Right Elbow Skin,28,68
+Anterior Right Elbow Skin,28.75,66.5
+Anterior Midline Right Elbow Skin,29,66.5
+Anterior Medial Right Elbow Skin,29.5,65
+Posterior Medial Right Elbow Skin,70,64
+Posterior Midline Right Elbow Skin,71,64
+Posterior Lateral Right Elbow Skin,72,64
+Right Epitrochlear Lymphoid Tissue,81,66
+Right Ethmoid Bone,10.8,95
+Anterior Lateral Right Eyebrow Skin,34,93.2
+Anterior Midline Right Eyebrow Skin,34.2,93.2
+Anterior Medial Right Eyebrow Skin,34.8,93.2
+Anterior Lateral Right Eyelid Skin,34,92.5
+Anterior Midline Right Eyelid Skin,34.2,92.5
+Anterior Medial Right Eyelid Skin,34.6,92.5
+Right Femoral Lymphoid Tissue,85.5,46
+Right Femur Bone,7.6,44
+Right Fibula Bone,7.85,22
+Anterior Lateral Right Foot And Toes Skin,31,5
+Anterior Midline Right Foot And Toes Skin,31.8,5
+Anterior Medial Right Foot And Toes Skin,32.5,5
+Posterior Midline Right Foot And Toes Skin,68,10
+Posterior Lateral Right Foot And Toes Skin,68.5,9.5
+Right Foot Distal Phalange 1 Bone,9.2,4.3
+Right Foot Distal Phalange 2 Bone,8.8,4
+Right Foot Distal Phalange 3 Bone,8.15,4.2
+Right Foot Distal Phalange 4 Bone,7.8,4.5
+Right Foot Distal Phalange 5 Bone,7.4,5.15
+Right Foot Middle Phalange 2 Bone,8.8,4.7
+Right Foot Middle Phalange 3 Bone,8.15,4.8
+Right Foot Middle Phalange 4 Bone,7.8,5
+Right Foot Middle Phalange 5 Bone,7.35,5.4
+Right Foot Proximal Phalange 1 Bone,9.3,5.5
+Right Foot Proximal Phalange 2 Bone,8.8,5.5
+Right Foot Proximal Phalange 3 Bone,8.2,5.7
+Right Foot Proximal Phalange 4 Bone,7.8,5.9
+Right Foot Proximal Phalange 5 Bone,7.35,6.1
+Anterior Lateral Right Forearm Skin,26,60
+Anterior Midline Right Forearm Skin,27,60
+Anterior Medial Right Forearm Skin,28,60
+Posterior Medial Right Forearm Skin,70.8,60
+Posterior Midline Right Forearm Skin,71.85,60
+Posterior Lateral Right Forearm Skin,72.8,60
+Lateral Right Forehead Skin,33.5,93
+Anterior Lateral Right Forehead Skin,33.5,95
+Anterior Midline Right Forehead Skin,34.2,95
+Anterior Medial Right Forehead Skin,35,95
+Right Frontal Bone,10,96
+Right Gallbladder,85.5,61
+Anterior Lateral Right Genitalia Skin,35,49
+Midline Right Genitalia Skin,35.1,49
+Anterior Midline Right Genitalia Skin,35.2,49
+Posterior Midline Right Genitalia Skin,63.6,49
+Posterior Medial Right Genitalia Skin,63.8,49
+Posterior Lateral Right Genitalia Skin,63.9,49
+Right Hamate Bone,2.7,52.2
+Anterior Lateral Right Hand And Fingers Skin,23,50
+Anterior Midline Right Hand And Fingers Skin,23.9,50
+Anterior Medial Right Hand And Fingers Skin,24.8,50
+Posterior Medial Right Hand And Fingers Skin,74.2,50
+Posterior Midline Right Hand And Fingers Skin,75.1,50
+Posterior Lateral Right Hand And Fingers Skin,76,50
+Right Hand Distal Phalange 1 Bone,0.7,47.8
+Right Hand Distal Phalange 2 Bone,1.35,44
+Right Hand Distal Phalange 3 Bone,2.28,43.5
+Right Hand Distal Phalange 4 Bone,3,44
+Right Hand Distal Phalange 5 Bone,3.75,45.2
+Right Hand Middle Phalange 2 Bone,1.5,45
+Right Hand Middle Phalange 3 Bone,2.29,44.9
+Right Hand Middle Phalange 4 Bone,3,45.5
+Right Hand Middle Phalange 5 Bone,3.7,46.2
+Right Hand Proximal Phalange 1 Bone,0.8,49.1
+Right Hand Proximal Phalange 2 Bone,1.7,46.8
+Right Hand Proximal Phalange 3 Bone,2.3,47
+Right Hand Proximal Phalange 4 Bone,3,47.1
+Right Hand Proximal Phalange 5 Bone,3.6,47.5
+Right Heart,87,74
+Right Hilar Lymphoid Tissue,87,77
+Right Humerus Bone,5.3,75
+Right Iliac Lymphoid Tissue,87,53
+Right Ilium Bone,8,61
+Right Incus Bone,9,93.8
+Right Inferior Nasal Conchae Bone,10.8,91.8
+Right Infraclavicular Lymphoid Tissue,86.2,83.8
+Right Inguinal Lymphoid Tissue,86,47
+Right Intermediate Cuneiform Bone,8.6,10.6
+Right Ishium Bone,9.5,53.5
+Right Kidney,85.2,62
+Anterior Lateral Right Knee Skin,31.3,28
+Anterior Midline Right Knee Skin,32.5,28
+Anterior Medial Right Knee Skin,33.5,28
+Posterior Medial Right Knee Skin,65.5,30
+Posterior Midline Right Knee Skin,66.5,30
+Posterior Lateral Right Knee Skin,67.5,30
+Right Lacrimal Bone,10.8,94
+Right Large Intestine,84,57
+Right Lateral Cuneiform Bone,8.2,10.2
+Right Level Ii Cervical Lymphoid Tissue,86.2,87.5
+Right Level Iii Cervical Lymphoid Tissue,86.3,85.7
+Right Level Iv Cervical Lymphoid Tissue,86.2,85
+Right Level V Cervical Lymphoid Tissue,86.1,87.4
+Right Level Vi Cervical Lymphoid Tissue,86.2,85
+Right Level Vii Cervical Lymphoid Tissue,86.2,84.8
+Right Lingual Tonsils Lymphoid Tissue,87.3,88
+Anterior Lateral Right Lip Skin,34.6,88.5
+Anterior Midline Right Lip Skin,34.7,88.5
+Anterior Medial Right Lip Skin,35.1,88
+Right Liver,84,64
+Anterior Lateral Right Lower Leg (Shin And Calf) Skin,31.5,19
+Anterior Midline Right Lower Leg (Shin And Calf) Skin,32.5,19
+Anterior Medial Right Lower Leg (Shin And Calf) Skin,33.1,19
+Posterior Medial Right Lower Leg (Shin And Calf) Skin,65.8,21
+Posterior Midline Right Lower Leg (Shin And Calf) Skin,66.6,21
+Posterior Lateral Right Lower Leg (Shin And Calf) Skin,67.5,21
+Right Lunate Bone,2.8,52.2
+Right Lungs,85,74
+Right Malleus Bone,9,93.8
+Right Mandible Bone,10,88.5
+Right Maxilla Bone,10.5,91
+Right Medial Cuneiform Bone,9.2,10
+Right Mesenteric Lymphoid Tissue,85,59
+Right Metacarpal 1 Bone,1.5,51.5
+Right Metacarpal 2 Bone,1.9,50
+Right Metacarpal 3 Bone,2.4,50
+Right Metacarpal 4 Bone,2.9,50
+Right Metacarpal 5 Bone,3.4,50.2
+Right Metatarsal  1 Bone,9.2,8
+Right Metatarsal  2 Bone,8.8,8
+Right Metatarsal  3 Bone,8.25,8
+Right Metatarsal  4 Bone,7.9,8
+Right Metatarsal  5 Bone,7.7,8
+Right Nasal Bone,11,94
+Right Nasopharynx Lymphoid Tissue,87.3,88
+Right Navicular Bone,9,11.2
+Anterior Lateral Right Neck Skin,34,85
+Anterior Right Neck Skin,34.2,85
+Anterior Midline Right Neck Skin,34.5,85
+Anterior Medial Right Neck Skin,35,85
+Posterior Medial Right Neck Skin,64,85
+Posterior Midline Right Neck Skin,64.5,85
+Posterior Lateral Right Neck Skin,65,85.8
+Anterior Lateral Right Nose Skin,35,90.5
+Anterior Medial Right Nose Skin,35.2,90.5
+Anterior Midline Right Nose Skin,35.5,90.5
+Right Occipital Lymphoid Tissue,87,89
+Right Occipital Bone,10.5,92
+Right Ossa Coxae Bone,10.8,55
+Right Ovary,86,57
+Right Palatine Bone,10.5,91
+Right Pancreas,87,63
+Right Paraaortic Lymphoid Tissue,87,59
+Right Parietal Bone,9.5,96
+Right Parotid Lymphoid Tissue,86.6,88
+Right Patella Bone,8.6,32.5
+Right Pectoral Lymphoid Tissue,85.5,78.5
+Right Peritracheal Lymphoid Tissue,87.4,82
+Right Pisiform Bone,3,52.2
+Right Popliteal Lymphoid Tissue,85,24
+Right Porta Hepatis Lymphoid Tissue,86,64
+Right Preauricular Lymphoid Tissue,86.4,89
+Right Pubis Bone,10.8,55
+Right Radius Bone,2.8,59
+Right Retroperitoneal Lymphoid Tissue,86,61
+Right Rib 1 Bone,10,80.2
+Right Rib 10 Bone,8,65.8
+Right Rib 11 Bone,9,70
+Right Rib 12 Bone,7.5,68
+Right Rib 2 Bone,9,79.3
+Right Rib 3 Bone,9,77.5
+Right Rib 4 Bone,9,75.3
+Right Rib 5 Bone,9,73.1
+Right Rib 6 Bone,9,71.2
+Right Rib 7 Bone,9,69.6
+Right Rib 8 Bone,9,68
+Right Rib 9 Bone,8,66.5
+Right Sacrum Bone,11,58
+Anterior Lateral Right Scalp Skin,33.3,95
+Anterior Midline Right Scalp Skin,34.2,96
+Anterior Medial Right Scalp Skin,35,97
+Posterior Medial Right Scalp Skin,64,94
+Posterior Midline Right Scalp Skin,65,94
+Posterior Lateral Right Scalp Skin,65.8,94
+Right Scaphoid Bone,2.2,53
+Right Scapula Or Shoulder Blade Bone,6,80
+Anterior Lateral Right Shoulder Skin,29.5,79
+Anterior Midline Right Shoulder Skin,30.125,79
+Anterior Medial Right Shoulder Skin,30.75,79
+Posterior Medial Right Shoulder Skin,68,79
+Posterior Midline Right Shoulder Skin,68.7,79
+Posterior Lateral Right Shoulder Skin,69.5,79
+Right Small Intestine,86,59
+Right Sphenoid Bone,10.5,95
+Right Spleen Lymphoid Tissue,91,64
+Right Spleen,91,64
+Right Splenic Hilar Lymphoid Tissue,90.5,64
+Right Stapes Bone,9,93.8
+Right Sternum Bone,11,79
+Right Stomach,88.5,65
+Right Submandibular Lymphoid Tissue,87,86.6
+Right Submental Lymphoid Tissue,87.3,85.8
+Right Supraclavicular Lymphoid Tissue,86,84
+Right Talus Bone,8.8,12
+Right Temporal Bone,9.5,95.5
+Right Testis,87,46
+Right Thymic Lymphoid Tissue,87.4,76
+Right Tibia Bone,8.6,22
+Right Tonsils Lymphoid Tissue,87.3,88
+Right Trapezium Bone,2,52.2
+Right Trapezoid Bone,2.3,52.2
+Right Triquetral Bone,3,52.2
+Right Ulna Bone,3.5,59
+Anterior Lateral Right Upper Arm Skin,28.5,71.5
+Anterior Midline Right Upper Arm Skin,29.5,71.5
+Anterior Medial Right Upper Arm Skin,30.25,71.5
+Posterior Medial Right Upper Arm Skin,68.5,71.5
+Posterior Midline Right Upper Arm Skin,69.5,71.5
+Posterior Lateral Right Upper Arm Skin,70.5,71.5
+Anterior Lateral Right Upper Leg (Anterior And Posterior Thigh) Skin,30.7,44
+Anterior Midline Right Upper Leg (Anterior And Posterior Thigh) Skin,32.5,44
+Anterior Medial Right Upper Leg (Anterior And Posterior Thigh) Skin,34.3,44
+Posterior Medial Right Upper Leg (Anterior And Posterior Thigh) Skin,64.5,43
+Posterior Midline Right Upper Leg (Anterior And Posterior Thigh) Skin,66.5,43
+Posterior Lateral Right Upper Leg (Anterior And Posterior Thigh) Skin,68,43
+Right Vomer Bone,10.5,91
+Right Waldeyer Ring Lymphoid Tissue,87.3,88
+Anterior Lateral Right Wrist Skin,24.8,55
+Anterior Midline Right Wrist Skin,25.4,54.5
+Anterior Medial Right Wrist Skin,25.9,54
+Posterior Medial Right Wrist Skin,73.5,53
+Posterior Midline Right Wrist Skin,74.1,53.5
+Posterior Lateral Right Wrist Skin,74.5,54
+Right Zygomatic Bone,10,92
+Abdomen Skin,35.4,60
+Abdominal Lymphoid Tissue,87.8,55
+Adenoids Lymphoid Tissue,87.8,88
+Anus,87.8,47
+Back Skin,63.6,75
+Bladder,87.8,53
+Brain,87.8,95
+Buttocks Skin,63.6,53
+Celiac Lymphoid Tissue,87.8,62
+Cerebrospinal Fluid,87.8,78
+Cervical Vertebrae 1 Bone,11,90
+Cervical Vertebrae 2 Bone,11,89
+Cervical Vertebrae 3 Bone,11,88
+Cervical Vertebrae 4 Bone,11,87
+Cervical Vertebrae 5 Bone,11,86
+Cervical Vertebrae 6 Bone,11,85
+Cervical Vertebrae 7 Bone,11,84
+Cervix,87.8,48
+Chest Skin,35.4,75
+Chin Skin,35.4,87
+Esophagus,87.8,84
+Forehead Skin,35.4,95
+Gallbladder,86,61
+Genitalia Skin,35.4,49
+Heart,87.8,74
+Hilar Lymphoid Tissue,87.8,77
+Large Intestine,87.8,64
+Leptomeningeal,87.8,82
+Lingual Tonsils Lymphoid Tissue,87.8,88
+Lip Skin,35.4,88.5
+Liver,87,64
+Lumbar Vertebrae 1 Bone,11,67.2
+Lumbar Vertebrae 2 Bone,11,65.5
+Lumbar Vertebrae 2 Bone,11,66.5
+Lumbar Vertebrae 3 Bone,11,63.8
+Lumbar Vertebrae 4 Bone,11,62
+Lumbar Vertebrae 5 Bone,11,60.5
+Mesenteric Lymphoid Tissue,87.8,59
+Nasal Mucosa,87.8,91
+Nasopharynx Lymphoid Tissue,87.8,88
+Neck Skin,35.4,84
+Posterior  Neck Skin,63.6,85
+Nose Skin,35.4,90.5
+Oral Mucosa,87.8,88
+Pancreas,87.8,63
+Paraaortic Lymphoid Tissue,87.8,59
+Porta Hepatis Lymphoid Tissue,87.8,64
+Retroperitoneal Lymphoid Tissue,87.8,61
+Scalp Skin,35.4,97
+Posterior  Scalp Skin,63.6,94
+Small Intestine,87.8,59
+Spinal Cord,87.8,75
+Spleen Lymphoid Tissue,91,64
+Stomach,86.5,65
+Thoracic Vertebrae 1 Bone,11,83
+Thoracic Vertebrae 10 Bone,11,74
+Thoracic Vertebrae 11 Bone,11,73
+Thoracic Vertebrae 12 Bone,11,68.8
+Thoracic Vertebrae 2 Bone,11,82
+Thoracic Vertebrae 3 Bone,11,81
+Thoracic Vertebrae 4 Bone,11,80
+Thoracic Vertebrae 5 Bone,11,79
+Thoracic Vertebrae 6 Bone,11,78
+Thoracic Vertebrae 7 Bone,11,77
+Thoracic Vertebrae 8 Bone,11,76
+Thoracic Vertebrae 9 Bone,11,75
+Tonsils Lymphoid Tissue,87.8,88
+Vagina,87.8,47
+Waldeyer Ring Lymphoid Tissue,87.8,88
