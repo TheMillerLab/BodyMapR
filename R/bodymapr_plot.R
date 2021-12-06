@@ -49,7 +49,8 @@ bodymapr.plot <- ggplot(data = NULL) +
                    color = tum_type),
                position=position_jitter(width = 0.35,
                                         height = 1),
-               shape = 19)
+               shape = 19) +
+  theme(legend.position = "none")
 
   plotly::ggplotly(bodymapr.plot,
                    tooltip = c("text")) %>%
