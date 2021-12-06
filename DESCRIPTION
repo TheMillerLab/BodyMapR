@@ -28,7 +28,8 @@ Depends:
     stringr,
     magrittr,
     shiny,
-    shinydashboard
+    shinydashboard,
+    plotly
 Imports:
 RoxygenNote: 7.1.1
 
