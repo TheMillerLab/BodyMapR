@@ -1,1 +1,1 @@
-To facilitate the installation of this package and shiny application, we have created a **Video Demo**, that can be accessed here
+To facilitate the installation of this package and shiny application, we have created a **Video Demo**, that can be accessed [here](https://www.dropbox.com/preview/mLab/MCC%20Database/R%20Projects/Body%20Map/BodyMapR%20Manuscript/Video%20Demo/BodyMapR%20Video%20Demo.mov?context=browse&role=work)
