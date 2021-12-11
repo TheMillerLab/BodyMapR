@@ -8,7 +8,7 @@
 
 We have also created a front-end Shiny application that uses the core functions of <font color = 'orange' ><b>BodyMapR</b></font> on the server side of the app. The Shiny app of <font color = 'orange' ><b>BodyMapR</b></font> allows for an interactive component to facilitate user-directed data visualizations. The package does not require the use of the Shiny app, but the app enhances the usability of the package. The BodyMapR Shiny application is launched via the function `launch_BodyMapR()`. This function takes one argument, “Data”, a raw csv file exported from REDCap®. `launch_BodyMapR()` is the only function an end user needs to call to execute and utilize BodyMapR. Once launched, clinical researchers interface with BodyMapR in a web browser. 
 
-A video demonstration of <font color = 'orange' ><b>BodyMapR</b></font> can be seen [here](https://github.com/TheMillerLab/BodyMapR/blob/main/Video_Demo.md).
+A video demonstration of <font color = 'orange' ><b>BodyMapR</b></font> can be seen [here](https://www.dropbox.com/s/von8vny8t6zfkus/BodyMapR%20Video%20Demo.mov?dl=0).
 
 <font color = 'orange' ><b>BodyMapR</b></font> provides a set of verbs that wrangle, process and graph clinical tumor characteristics from structured data:  
 
