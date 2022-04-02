@@ -4,7 +4,7 @@
 <!-- badges: end -->
 
 ## Overview  
-<font color = 'orange' ><b>BodyMaprR</b></font> (pronounced "body mapper") an R package and Shiny application that generates anatomical visualizations of cancer lesions from structured data. The package centralizes around two core functions `bodymapr_df()` and `bodymapr_plot()` which transposes structured data from REDCap® onto an anatomical map to yield an interactive data visualization.
+<font color = 'orange' ><b>BodyMapR</b></font> (pronounced "body mapper") an R package and Shiny application that generates anatomical visualizations of cancer lesions from structured data. The package centralizes around two core functions `bodymapr_df()` and `bodymapr_plot()` which transposes structured data from REDCap® onto an anatomical map to yield an interactive data visualization.
 
 We have also created a front-end Shiny application that uses the core functions of <font color = 'orange' ><b>BodyMapR</b></font> on the server side of the app. The Shiny app of <font color = 'orange' ><b>BodyMapR</b></font> allows for an interactive component to facilitate user-directed data visualizations. The package does not require the use of the Shiny app, but the app enhances the usability of the package. The BodyMapR Shiny application is launched via the function `launch_BodyMapR()`. This function takes one argument, “Data”, a raw csv file exported from REDCap®. `launch_BodyMapR()` is the only function an end user needs to call to execute and utilize BodyMapR. Once launched, clinical researchers interface with BodyMapR in a web browser. 
 
